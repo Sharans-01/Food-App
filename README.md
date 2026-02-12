@@ -61,17 +61,21 @@ Add screenshots of the application UI below.
 
 ![Home Page](screenshots/home.png)
 
-### 📋 Menu Page
+### 📋 Featured recipe Page
 
-![Menu Page](screenshots/menu.png)
+![Featured recipe](screenshots/featured.png)
 
-### 🍔 Food Item View
+### 🍔 Categories Section
 
-![Food Items](screenshots/food-items.png)
+![Categories Section](screenshots/categories.png)
+
+### 🍔 All recipes
+
+![All recipes](screenshots/recipes.png)
 
 ### 📱 Mobile View
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshots/Mobile.png)
 
 
 ---
@@ -88,13 +92,6 @@ This project was built to strengthen frontend development skills, focusing on re
 * Integrate backend APIs
 * User authentication UI
 * Animations and transitions
-
----
-
-## 👨‍💻 Author
-
-**Sharan M**
-Computer Science Engineer
 
 ---
 
